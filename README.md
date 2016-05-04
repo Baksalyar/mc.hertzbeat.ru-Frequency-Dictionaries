@@ -1,4 +1,4 @@
-### Russian Frequency list generated from the mc.hertzbeat.ru news aggregation service (2014-2016)
+### Russian Frequency list generated from the article base of the mc.hertzbeat.ru news aggregation service (2014-2016)
 
 ![Russian Frequency list sample](http://murgab.s3-eu-west-1.amazonaws.com/frequ1_MjYzO.png)
 
